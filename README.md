@@ -38,3 +38,5 @@ Built with HTML, CSS, and JavaScript, it serves as a working prototype for live 
 The goal is to enhance response speed and consistency for agents by turning scripts into interactive tools.
 Instead of focusing on chatbot automation, this project emphasizes interface design for script-based human support.
 
+📌 Note: Full source code is not publicly available due to internal use cases.  
+Key logic or demo may be shared upon request.
